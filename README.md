@@ -18,11 +18,11 @@
 
 ## 🚀 About Me
 
-I am an **iOS Developer** with commercial experience in building enterprise products in **FinTech**, **Construction Tech**, and **App Store** apps. I specialize in **Swift 6 strict concurrency**, **SwiftUI**, modular architecture (**SPM**), and building secure banking applications (3DS 2.0, SCA, Biometrics).
+I am an **iOS Developer** with commercial experience in building enterprise products in **FinTech**, **Construction Tech**, and **App Store** apps. I specialize in **Swift 6 strict concurrency**, **SwiftUI**, modular architecture (**SPM**), and building secure banking applications (3DS 2.0, SCA, Biometrics). I also build **backend platforms** with Python/Flask and set up **CI/CD pipelines** for automated deployment.
 
 - 🔭 I’m currently working on **Real-time WebSocket systems & FinTech apps**
 - 🤝 I’m open to collaborating on **iOS projects where architecture and code quality matter**
-- 💬 Ask me about **SwiftUI, Swift Concurrency, Modular Architecture**
+- 💬 Ask me about **SwiftUI, Swift Concurrency, Modular Architecture, CI/CD, Backend Development**
 
 ---
 
@@ -39,13 +39,18 @@ Building production iOS apps with emphasis on **architecture**, **concurrency**,
 | **Networking** | REST, JSON-RPC 2.0, WebSocket (reconnect, heartbeat) |
 | **Security** | 3DS 2.0, SCA, Keychain, Certificate Pinning, FaceID/TouchID |
 | **AR & Vision** | ARKit, LiDAR, RealityKit, Vision OCR, Core Image |
-| **Tools** | SPM, Fastlane, GitLab CI/CD, Docker, Firebase, XCTest |
+| **Tools** | SPM, Fastlane, GitLab CI/CD, Docker, Docker Compose, Firebase, XCTest |
+| **Backend & DevOps** | Python, Flask, Telegram Bot API, Docker, GitLab CI/CD, SSH deployment, Nginx, SSL |
 
 ### Environment
 ```text
 iOS / iPadOS / macOS
 SwiftUI Observation • NavigationStack • UIKit interop
 AVFoundation • VideoToolbox • PDFKit • PencilKit • GRDB
+
+Backend & DevOps
+Python • Flask • Telegram Bot API • Docker • Docker Compose
+GitLab CI/CD • SSH deployment • Nginx • SSL/TLS
 ```
 
 ---
@@ -78,6 +83,13 @@ AVFoundation • VideoToolbox • PDFKit • PencilKit • GRDB
 *Scanner/generator with monetization flow*
 - **Features**: AVFoundation scanning, QR generation + history.
 - **Tech**: Apphud paywall integration, Swift 6 migration.
+
+### 🤖 **Backend Platform & CI/CD**
+*Subscription management platform with automated deployment*
+- **CI/CD**: GitLab CI/CD with automated test/production deployment via SSH.
+- **Infrastructure**: Docker, Docker Compose, Nginx, SSL certificates (Let's Encrypt).
+- **Backend**: Python Flask, Telegram Bot API, payment integrations (YooKassa, CryptoBot).
+- **Deployment**: Automated rsync-based deployment, multi-environment support (test/production).
 
 ---
 
