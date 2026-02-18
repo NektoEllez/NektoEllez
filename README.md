@@ -31,6 +31,12 @@ I am an **iOS Developer** with commercial experience in building enterprise prod
 ### Core Focus
 Building production iOS apps with emphasis on **architecture**, **concurrency**, **security**, and **real-time systems**.
 
+### Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=swift,python,flask,docker,gitlab,github,git,vscode,xcode,firebase,nginx" alt="Skills" />
+</div>
+
 | Area | Technologies |
 |------|--------------|
 | **Languages** | ![Swift](https://img.shields.io/badge/Swift-5.0_/_6.0-F05138?style=flat-square&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white) |
