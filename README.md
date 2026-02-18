@@ -28,21 +28,30 @@ I am an **iOS Developer** with commercial experience in building enterprise prod
 
 ## Tech Stack & Skills
 
+### Core Focus
 Building production iOS apps with emphasis on **architecture**, **concurrency**, **security**, and **real-time systems**.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,flask,docker,gitlab,github,git,vscode,xcode,firebase,nginx" alt="Skills" />
-</div>
+| Area | Technologies |
+|------|--------------|
+| **Languages** | <a href="https://swift.org"><img src="https://skillicons.dev/icons?i=swift" height="20"/></a> <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="20"/></a> &nbsp; Swift 5/6, Python |
+| **UI Frameworks** | SwiftUI, UIKit, MVVM-C, Coordinator, NavigationStack |
+| **Concurrency** | `async/await`, `Task`, `AsyncStream`, `actor`, `@MainActor` |
+| **Networking** | REST, JSON-RPC 2.0, WebSocket (reconnect, heartbeat) |
+| **Security** | 3DS 2.0, SCA, Keychain, Certificate Pinning, FaceID/TouchID |
+| **AR & Vision** | ARKit, LiDAR, RealityKit, Vision OCR, Core Image |
+| **Tools** | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="20"/></a> <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" height="20"/></a> <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="20"/></a> <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="20"/></a> <a href="https://developer.apple.com/xcode/"><img src="https://skillicons.dev/icons?i=xcode" height="20"/></a> &nbsp; SPM, Fastlane, GitLab CI/CD, Docker, Firebase, XCTest |
+| **Backend & DevOps** | <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" height="20"/></a> <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" height="20"/></a> &nbsp; Python, Flask, Telegram Bot API, Docker, Nginx, SSL |
 
-**Languages:** Swift 5/6, Python  
-**UI Frameworks:** SwiftUI, UIKit, MVVM-C, Coordinator, NavigationStack  
-**Concurrency:** `async/await`, `Task`, `AsyncStream`, `actor`, `@MainActor`  
-**Networking:** REST, JSON-RPC 2.0, WebSocket (reconnect, heartbeat)  
-**Security:** 3DS 2.0, SCA, Keychain, Certificate Pinning, FaceID/TouchID  
-**AR & Vision:** ARKit, LiDAR, RealityKit, Vision OCR, Core Image  
-**Tools:** SPM, Fastlane, GitLab CI/CD, Docker, Docker Compose, Firebase, XCTest  
-**Backend & DevOps:** Python, Flask, Telegram Bot API, Docker, GitLab CI/CD, SSH deployment, Nginx, SSL
+### Environment
+```text
+iOS / iPadOS / macOS
+SwiftUI Observation • NavigationStack • UIKit interop
+AVFoundation • VideoToolbox • PDFKit • PencilKit • GRDB
 
+Backend & DevOps
+Python • Flask • Telegram Bot API • Docker • Docker Compose
+GitLab CI/CD • SSH deployment • Nginx • SSL/TLS
+```
 
 ---
 
