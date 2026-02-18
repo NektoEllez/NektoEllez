@@ -58,7 +58,7 @@ AVFoundation • VideoToolbox • PDFKit • PencilKit • GRDB
 - **Architecture**: Modular (25+ SPM packages), MVVM-C, Hybrid Navigation.
 - **Tech**: Swift 6, SwiftUI/UIKit, XCTest.
 
-### 🎾 **Court360 (Real-time Tennis)**
+### 🎾 **Real-time Tennis Application**
 *Live session and scoring system*
 - **Real-time**: WebSocket layer with exponential backoff & heartbeat.
 - **Performance**: Request deduplication + throttling.
