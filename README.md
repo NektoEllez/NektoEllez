@@ -59,6 +59,7 @@ GitLab CI/CD • SSH deployment • Nginx • SSL/TLS
 
 ### **RedRiver Apps — Enterprise Banking**
 *Production banking apps for Moldova & Romania (20k+ users)*
+- **App Store**: [MyEnergBank](https://apps.apple.com/app/myenergbank/id6511240864) · [ECBank](https://apps.apple.com/vn/app/ecbank/id6451968530)
 - **Security**: Full implementation of 3DS 2.0, SCA, Biometrics, Keychain.
 - **Architecture**: Modular (25+ SPM packages), MVVM-C, Hybrid Navigation.
 - **Tech**: Swift 6, SwiftUI/UIKit, XCTest.
@@ -68,6 +69,11 @@ GitLab CI/CD • SSH deployment • Nginx • SSL/TLS
 - **Real-time**: WebSocket layer with exponential backoff & heartbeat.
 - **Performance**: Request deduplication + throttling.
 - **Tech**: JSON-RPC 2.0, AsyncStream, Actors.
+
+### **Video Converter & Media Convert**
+*Media conversion and batch processing*
+- **App Store**: [Video Converter & Media Convert](https://apps.apple.com/us/app/video-converter-media-convert/id6755233335)
+- **Features**: AVFoundation, VideoToolbox, batch processing (iOS/macOS).
 
 ### **PDF Scanner & Workflow**
 *Document workflow app: scan, edit, sign, export*
@@ -81,6 +87,7 @@ GitLab CI/CD • SSH deployment • Nginx • SSL/TLS
 
 ### **QR Scanner & Generator**
 *Scanner/generator with monetization flow*
+- **App Store**: [QR Code & Barcode Scanner](https://apps.apple.com/vn/app/qr-code-barcode-scanner/id1048473097)
 - **Features**: AVFoundation scanning, QR generation + history.
 - **Tech**: Apphud paywall integration, Swift 6 migration.
 
