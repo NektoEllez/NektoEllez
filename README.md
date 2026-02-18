@@ -1,68 +1,95 @@
-## iOS Engineering Focus
+<div align="center">
+  <img src="assets/profile_banner.png" alt="Ivan Potyng - iOS Developer" width="100%" />
 
-Building production iOS apps with emphasis on architecture, concurrency, security, and real-time systems.
+  <h1 align="center">Hi there, I'm Ivan Potyng 👋</h1>
+  <h3 align="center">iOS & macOS Developer | Creating seamless apps for Apple platforms</h3>
 
-### Core Skills
+  <p align="center">
+    <a href="https://t.me/ivan_potyng">
+      <img src="https://img.shields.io/badge/Telegram-@ivan__potyng-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://github.com/NektoEllez">
+      <img src="https://img.shields.io/badge/GitHub-NektoEllez-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
-- Swift 5/6, SwiftUI, UIKit
-- MVVM-C, Coordinator, modular architecture (SPM)
-- Swift Concurrency: `async/await`, `Task`, `AsyncStream`, `actor`, `@MainActor`
-- Networking: REST, JSON-RPC 2.0, WebSocket (reconnect, heartbeat, throttling)
-- Security: 3DS 2.0, SCA, Keychain, Certificate Pinning, Face ID / Touch ID
-- AR & Vision: ARKit, LiDAR, RealityKit, Vision OCR, Core Image
-- Testing & quality: XCTest, Swift Testing, Instruments, CI/CD
-- Backend support: Python, Flask, Docker, SQLite
+---
 
-### Stack
+## 🚀 About Me
 
+I am an **iOS Developer** with commercial experience in building enterprise products in **FinTech**, **Construction Tech**, and **App Store** apps. I specialize in **Swift 6 strict concurrency**, **SwiftUI**, modular architecture (**SPM**), and building secure banking applications (3DS 2.0, SCA, Biometrics).
+
+- 🔭 I’m currently working on **Real-time WebSocket systems & FinTech apps**
+- 🤝 I’m open to collaborating on **iOS projects where architecture and code quality matter**
+- 💬 Ask me about **SwiftUI, Swift Concurrency, Modular Architecture**
+
+---
+
+## 🛠 Tech Stack & Skills
+
+### Core Focus
+Building production iOS apps with emphasis on **architecture**, **concurrency**, **security**, and **real-time systems**.
+
+| Area | Technologies |
+|------|--------------|
+| **Languages** | ![Swift](https://img.shields.io/badge/Swift-5.0_/_6.0-F05138?style=flat-square&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **UI Frameworks** | SwiftUI, UIKit, MVVM-C, Coordinator, NavigationStack |
+| **Concurrency** | `async/await`, `Task`, `AsyncStream`, `actor`, `@MainActor` |
+| **Networking** | REST, JSON-RPC 2.0, WebSocket (reconnect, heartbeat) |
+| **Security** | 3DS 2.0, SCA, Keychain, Certificate Pinning, FaceID/TouchID |
+| **AR & Vision** | ARKit, LiDAR, RealityKit, Vision OCR, Core Image |
+| **Tools** | SPM, Fastlane, GitLab CI/CD, Docker, Firebase, XCTest |
+
+### Environment
 ```text
 iOS / iPadOS / macOS
 SwiftUI Observation • NavigationStack • UIKit interop
-SPM • Fastlane • GitLab CI/CD • Firebase Auth • Telegram Bot API
 AVFoundation • VideoToolbox • PDFKit • PencilKit • GRDB
 ```
 
-### Selected Projects
+---
 
-#### CourtPass-iOS
-Authentication + catalog app with production-style architecture.
+## 📱 Selected Projects
 
-- Firebase Auth (Apple / Google)
-- JSON-RPC 2.0 auth flow
-- Keychain token storage
-- MVVM + Coordinator + DI
+### 🏦 **RedRiver Apps — Enterprise Banking**
+*Production banking apps for Moldova & Romania (20k+ users)*
+- **Security**: Full implementation of 3DS 2.0, SCA, Biometrics, Keychain.
+- **Architecture**: Modular (25+ SPM packages), MVVM-C, Hybrid Navigation.
+- **Tech**: Swift 6, SwiftUI/UIKit, XCTest.
 
-#### PDF Scanner
-Document workflow app: scan, edit, sign, export.
+### 🎾 **Court360 (Real-time Tennis)**
+*Live session and scoring system*
+- **Real-time**: WebSocket layer with exponential backoff & heartbeat.
+- **Performance**: Request deduplication + throttling.
+- **Tech**: JSON-RPC 2.0, AsyncStream, Actors.
 
-- VisionKit scanning
-- PencilKit signatures
-- PDF export / print / history
-- MVVM + UseCases architecture
+### 📄 **PDF Scanner & Workflow**
+*Document workflow app: scan, edit, sign, export*
+- **Features**: VisionKit scanning, PencilKit signatures, PDF export.
+- **Architecture**: MVVM + UseCases.
 
-#### Court360 (real-time tennis)
-Live session and scoring system.
+### 🔐 **CourtPass-iOS**
+*Authentication + catalog app*
+- **Features**: Firebase Auth (Apple/Google), JSON-RPC 2.0 auth flow.
+- **Tech**: Keychain token storage, DI Container.
 
-- WebSocket real-time layer
-- Reconnect + heartbeat strategy
-- JSON-RPC 2.0 client
-- Request deduplication + throttling
+### 📷 **QR Scanner & Generator**
+*Scanner/generator with monetization flow*
+- **Features**: AVFoundation scanning, QR generation + history.
+- **Tech**: Apphud paywall integration, Swift 6 migration.
 
-#### QR Scanner & Generator
-Scanner/generator with monetization flow.
+---
 
-- AVFoundation scanning
-- QR generation + history
-- Apphud paywall integration
-- Swift 6 migration (iOS 16+)
-
-### Product Direction
+### 🎯 Product Direction
 
 - FinTech mobile scenarios
 - Real-time reliability and network stability
 - Scalable architecture for growing teams
 - Performance-focused UX
 
----
+<br />
 
-`Open to iOS projects where architecture and code quality matter.`
+<div align="center">
+  <i>Open to iOS projects where architecture and code quality matter.</i>
+</div>
