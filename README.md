@@ -74,17 +74,7 @@ GitLab CI/CD • SSH deployment • Nginx • SSL/TLS
 *Media conversion and batch processing*
 - **App Store**: [Video Converter & Media Convert](https://apps.apple.com/us/app/video-converter-media-convert/id6755233335)
 - **Features**: AVFoundation, VideoToolbox, batch processing (iOS/macOS).
-
-### **PDF Scanner & Workflow**
-*Document workflow app: scan, edit, sign, export*
-- **Features**: VisionKit scanning, PencilKit signatures, PDF export.
-- **Architecture**: MVVM + UseCases.
-
-### **CourtPass-iOS**
-*Authentication + catalog app*
-- **Features**: Firebase Auth (Apple/Google), JSON-RPC 2.0 auth flow.
-- **Tech**: Keychain token storage, DI Container.
-
+  
 ### **QR Scanner & Generator**
 *Scanner/generator with monetization flow*
 - **App Store**: [QR Code & Barcode Scanner](https://apps.apple.com/vn/app/qr-code-barcode-scanner/id1048473097)
